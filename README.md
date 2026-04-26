@@ -1,6 +1,6 @@
 I'm Nelson.
 
-I pay rent by working as a Cloud Support Engineer II at @pulumi.
+I pay rent by working as a Cloud Support Engineer II at [Pulumi](https://www.pulumi.com/).
 
 I write (and sometimes rant) over at [nelson.cloud](https://nelson.cloud).
 
