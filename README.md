@@ -8,4 +8,4 @@ I'm a maintainer of [tldr-pages](https://github.com/tldr-pages/tldr).
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/nelsonfigueroa1/) or [Mastodon](https://infosec.exchange/@nelson).
 
-I love music and if you're curious about my music taste, check out my [Bandcamp](https://bandcamp.com/nelsonfigueroa).
+I love music. If you're curious about my music taste, check out my [Bandcamp](https://bandcamp.com/nelsonfigueroa).
